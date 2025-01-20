@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**hanscabanero/hanscabanero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Hans, an eager junior developer who loves learning new technical skills.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently studying at the Southern Alberta Institute of Technology
+- 📫 How to reach me: hanschristian.cabanero@edu.sait.ca
+
+## 🛠️ Technologies & Tools
+
+- Programming Languages: `Python`, `JavaScript`, `C#`
+- Tools: `Git`, `Docker`, `VS Code`, `Visual Studio`, `Figma`
+
+
+## 📫 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/hanscabanero/) | [X/Twitter](https://x.com/HCabanero17)
+
+---
+
+Thanks for visiting my profile! 😊
